@@ -1,0 +1,107 @@
+Defining Cloud Computing:
+
+    Cloud computing is the latest generation technology with an extensive IT infrastructure that provides us a means by which we can use and utilize the applications as utilities via the Internet. 
+    Cloud computing makes IT infrastructure along with with their services available "on-need" basis.
+    The cloud technology includes - a development platform, hard disk, computing power, software application, and database. 
+    This technology doesn't require large-scale capital expenditure to access cloud vendors. 
+    Instead, the cloud facilitates 'pay-per-use,' i.e., the users of the organizations have to pay only that limited amount as much they use the cloud infrastructure. 
+    In other words, cloud computing refers to applications and services that run on a distributed network using virtualized resources and uses the standard internet protocols for accessing.
+
+Affect of Cloud on Human Lives:
+
+   The application became cheaper, easier to find, and use.
+   The new application becomes more comfortable to develop & create based on a standard modular part
+   Cloud will provide new social services by connecting through social networks
+   Lessen the usage of proprietary operating systems in our daily computing
+   Connection to the cloud can be done whenever we want
+
+
+Advantages of Cloud:
+
+     Low Cost: To run cloud technology, users don't require high power computers & technology because the application will run on the cloud and not on users' PC.
+
+     Storage Capacity: The Cloud storage capacity is unlimited & generally offers a vast storage capacity of 2000-3000 GBs or more based on the requirement.
+
+     Low cost of IT Infrastructure: As discussed earlier, the investment will be less if an organization uses Cloud technology; even the IT staffs and server engineers are also not required.
+
+     Increase computing Power: Cloud servers have a very high-capacity of running and processing tasks as well as the processing of applications.
+
+     Reduce Software Costs: Cloud minimizes the software costs as users don't need to purchase software for organizations or every computer.
+
+     Updating: Instant software update is possible & users don't have to face the choice problem between obsolete & high-upgrade software.
+
+
+Disadvantages of Cloud:
+
+     Internet Speed: Cloud technology requires high-speed internet connection as web-based applications often require large bandwidth amount.
+
+     Constant Internet Connection: Its impossible to use cloud infrastructure without the Internet. To access any application or cloud storage, a constant internet connection is required.
+
+     Security: Data storage might not be secure. With cloud computing, all the data gets stored in the cloud & hence the unauthorized user may gain access to the user's data in the cloud.
+
+
+Cloud Devlopment Model:
+  
+   Public Cloud Model:
+          Public Cloud is a type of cloud hosting that allows the accessibility of systems & its services to its clients/users easily. 
+          Some of the examples of those companies which provide public cloud facilities are IBM, Google, Amazon, Microsoft, etc. This cloud service is open for use. 
+          This type of cloud computing is a true specimen of cloud hosting where the service providers render services to various clients. 
+          From the technical point of view, there is the least difference between private clouds and public clouds along with the structural design. 
+          Only the security level depends based on the service providers and the type of cloud clients use. Public cloud is better suited for business purposes for managing the load.
+          This type of cloud is economical due to the decrease in capital overheads.
+  
+   Private Cloud Model:
+          Private Cloud also termed as 'Internal Cloud'; which allows the accessibility of systems and services within a specific boundary or organization. 
+          The cloud platform is implemented in a cloud-based secure environment that is guarded by advanced firewalls under the surveillance of the IT department that belongs to a particular organization. 
+          Private clouds permit only authorized users, providing the organizations greater control over data and its security. 
+          Business organizations that have dynamic, critical, secured, management demand based requirement should adopt Private Cloud.
+
+   Hybrid Cloud Model:
+          Hybrid Cloud is another cloud computing type, which is integrated, i.e., it can be a combination of two or more cloud servers, i.e., private, public or community combined as one architecture, but remain individual entities.
+          Non-critical tasks such as development and test workloads can be done using public cloud whereas critical tasks that are sensitive such as organization data handling are done using a private cloud.
+          Benefits of both deployment models, as well as a community deployment model, are possible in a hybrid cloud hosting. 
+          It can cross isolation and overcome boundaries by the provider; hence, it cannot be simply categorized into any of the three deployments - public, private or community cloud.
+ 
+   Community Model:
+          Community Cloud is another type of cloud computing in which the setup of the cloud is shared manually among different organizations that belong to the same community or area. 
+          Example of such a community is where organizations/firms are there along with the financial institutions/banks. 
+          A multi-tenant setup developed using cloud among different organizations that belong to a particular community or group having similar computing concern.
+
+Cloud Services:
+          
+   Software as a Services (Saas):
+         SaaS is defined as the software distribution model that is deployed on the internet in which a cloud service provider provides applications. 
+         It is also known as "on-demand software" or "pay-as-you-go application". Here the customer licenses their product via SaaS-providers. 
+         SaaS market is a rapid-growing one, and with this fast-growing service, SaaS will soon become an active cloud service technology for every organization and companies. 
+         So it's important to understand those users and or buyers the usage of SaaS and why it is suitable.
+   
+   Pltform as a Service (PaaS):
+         PaaS is a platform for programming developers and brings the benefits - SaaS is used for but from the software development point. 
+         It is the computer platform that provides the facility to use web applications quickly and with ease, without buying & maintaining web-development PaaS has a similarity with that of SaaS except that SaaS deliver software over the web, whereas PaaS provides a platform for the creating of software, delivered over the web. 
+         PaaS has a feature of point-and-click tool that allows non-programmers to develop web applications. 
+         App-Engine of Google & Force.com, Windows Azure, AppFog, Openshift, and VMware Cloud Foundry are examples of PaaS.
+
+   Infrastructuer as a Service (IaaS):
+         IaaS, as the name suggests, is a way of providing Cloud computing infrastructure such as virtual machines, storage drives, servers, operating systems & networks, which is also an on-demand service like that of SaaS.
+         Rather than purchasing servers or developing software, clients buy those resources as a fully outsourced service based on their requirement.
+        "Public cloud" is considered as an infrastructure that consists of shared resources, based on a self-service over the Internet. 
+         In one word, it is the only layer of the cloud where the customer gets the platform for their organization to outsource IT infrastructure on a pay-per-use basis.
+
+   Identity as a Service (IaaS):
+         IDaaS (Identity as a Service) This provides management of employee or user's identity information as a digital entity. 
+         It minimizes the problem of remembering every different username & password combination or disabling of account when an employee leaves the company.
+
+   Network as a Service (NaaS):
+         NaaS (Network as a Service) allows users to access network infrastructure directly. This service uses the virtualized network infrastructure & provides users & customers with network services in a secured manner. 
+         The NaaS providers maintain & manage network resources which decrease the workload of customers/users. It is also based on the pay-per-use model.
+
+Amazon Web Services Elastic Compute Cloud (EC2):
+
+        There are times when one is limited by the capabilities of a desktop or laptop. 
+        Suppose a data scientist has a large dataset that they would like to do some analysis on. 
+        The scientist proceeds to try and load the entire dataset into memory and an error like the one below occurs.
+
+        The error resulted because the available RAM was exhausted. The operating system couldn't allocate another 500Mb of RAM. 
+        While there are many different solutions to this type of problem, one possible solution could be to upgrade the RAM of the computer.
+        Besides having to make an investment in more RAM, there are limits to how far some computers can be upgraded. 
+        The potential solution explored in this tutorial is to use a virtual machine in the cloud (AWS) with more RAM and CPU.
